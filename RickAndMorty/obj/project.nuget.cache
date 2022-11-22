@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqRFXA8ufL/KsLDBQCzoVQkzbqLpQNzlIH0t1kt76KhUgYZBva7QAAYkLfdsnx4OXWBn3u1erRKv2SgIuZJO9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZbooK\\Desktop\\RickAndMorty\\RickAndMorty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZbooK\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ZbooK\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
